@@ -35,12 +35,7 @@ Save a new watched interval and last watched position.
 
 #### Body
 ```json
-{
-  "userId": "abc123",
-  "videoId": "xyz456",
-  "interval": { "start": 20, "end": 45 },
-  "lastPosition": 45
-}
+
  Setup Instructions
 📁 Clone the Repository
 bash
